@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>这是某人的博客和资源分享平台</title>
-    <url>/2020/06/17/hello-world/</url>
-    <content><![CDATA[<p>如果你找颜色资源，请打开…</p>
+    <title>6月23日</title>
+    <url>/2020/06/25/6%E6%9C%8823%E6%97%A5-1/</url>
+    <content><![CDATA[<p><em>6月23日，我向现在我爱的人表白了，当然并没有要求在一起，也没有说等着谁，只是说出了自己的内心活动，并提出了断联几个月。这大概是第一次我表白失败吧，没有任何回应，当然我早就清楚不可能有什么回应。只因为自己没有这个条件和能力，而对方又那么重要，而且更不能辜负其他熟悉的人。</em><br><img src="/2020/06/25/6%E6%9C%8823%E6%97%A5-1/q.jpg" alt="她的反应如青海湖的湖面，不可揣测"></p>
+<hr>
 <hr>
 ]]></content>
+      <categories>
+        <category>其他</category>
+      </categories>
+      <tags>
+        <tag>其他</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>如何解决Hexo博客不显示图片问题</title>
+    <url>/2020/06/25/%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3Hexo%E5%8D%9A%E5%AE%A2%E4%B8%8D%E6%98%BE%E7%A4%BA%E5%9B%BE%E7%89%87%E9%97%AE%E9%A2%98/</url>
+    <content><![CDATA[<h1 id="1-第一步："><a href="#1-第一步：" class="headerlink" title="1. 第一步："></a>1. 第一步：</h1><p>修改博客根目录中_config.yml文件的配置项post_asset_folder为true：<br>    post_asset_folder: true</p>
+<h1 id="2-第二步"><a href="#2-第二步" class="headerlink" title="2. 第二步:"></a>2. 第二步:</h1><p>在博客根目录中下使用npm安装插件：<br>    npm install <a href="https://github.com/CodeFalling/hexo-asset-image" target="_blank" rel="noopener">https://github.com/CodeFalling/hexo-asset-image</a> –save</p>
+<h1 id="实例："><a href="#实例：" class="headerlink" title="实例："></a>实例：</h1><p>当文章需要添加图片时，将需要添加的图片放入同名的文件夹中，同时通过相对路径索引到该图片。<br>如：<code>![示例](./解决Hexo博客不显示图片的一种方法/示例.jpg)</code></p>
+<hr>
+<hr>
+]]></content>
+      <tags>
+        <tag>技术</tag>
+      </tags>
   </entry>
 </search>
