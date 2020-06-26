@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>6月27日</title>
+    <url>/2020/06/27/6%E6%9C%8827%E6%97%A5/</url>
+    <content><![CDATA[<p>心理学教授JP是现在实用主义心理学的集大成者，今天有幸听了他关于男女性格差异的演讲，收益颇丰。对于一个亲和力较高的人，尽量说出心里所想的东西就能防止受到一些伤害。<br>很充实的一天，虽然没学什么课业，考研还得继续，今年应该能上岸吧，明天找个地方去学习吧。<br><img src="/2020/06/27/6%E6%9C%8827%E6%97%A5/mayixuejie.jpg" alt></p>
+<hr>
+<hr>
+]]></content>
+      <tags>
+        <tag>生活</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>6月23日</title>
     <url>/2020/06/25/6%E6%9C%8823%E6%97%A5-1/</url>
     <content><![CDATA[<p><em>6月23日，我向现在我爱的人表白了，当然并没有要求在一起，也没有说等着谁，只是说出了自己的内心活动，并提出了断联几个月。这大概是第一次我表白失败吧，没有任何回应，当然我早就清楚不可能有什么回应。只因为自己没有这个条件和能力，而对方又那么重要，而且更不能辜负其他熟悉的人。</em><br><em>她的反应如青海湖的湖面，风平浪静，而不可揣测。</em><br><img src="/2020/06/25/6%E6%9C%8823%E6%97%A5-1/q.jpg" alt="她的反应如青海湖的湖面，不可揣测"></p>
@@ -8,10 +19,10 @@
 <hr>
 ]]></content>
       <categories>
-        <category>其他</category>
+        <category>经历</category>
       </categories>
       <tags>
-        <tag>其他</tag>
+        <tag>生活</tag>
       </tags>
   </entry>
   <entry>
@@ -23,6 +34,22 @@
 <hr>
 <hr>
 ]]></content>
+      <tags>
+        <tag>技术</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>b站的pc端缓存方式</title>
+    <url>/2020/06/26/b%E7%AB%99%E7%9A%84pc%E7%AB%AF%E7%BC%93%E5%AD%98%E6%96%B9%E5%BC%8F/</url>
+    <content><![CDATA[<h1 id="方案一"><a href="#方案一" class="headerlink" title="方案一:"></a>方案一:</h1><p>在chrome浏览器里下载插件：（如下图）<br>！<a href="./b站的pc端缓存方式/biliblii缓存工具.PNG">chrome的b站缓存工具</a></p>
+<h1 id="方案二"><a href="#方案二" class="headerlink" title="方案二:"></a>方案二:</h1><p>在bilibili的地址前面加上i或者末尾加上jj:<br><code>https://www.ibilibili.com/</code> 或<br><code>https://www.bilibilijj.com</code>(这个网站封面有点不太健康)</p>
+<h1 id="备注"><a href="#备注" class="headerlink" title="备注:"></a>备注:</h1><p>b站的视频是flv格式，所以用windows自带的视频播放器无法播放，建议下载PotPlyer，该软件还可以更换自己喜欢的界面或壁纸。</p>
+<hr>
+<hr>
+]]></content>
+      <categories>
+        <category>技术</category>
+      </categories>
       <tags>
         <tag>技术</tag>
       </tags>
